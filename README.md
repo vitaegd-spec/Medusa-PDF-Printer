@@ -1,6 +1,6 @@
 # MedusaPDF – free virtual PDF printer
 
-<img width="256" alt="image" src="images/medusa.pnge.png" />
+<img width="256" alt="image" src="images/medusa.png" />
 
 MedusaPDF is a free replacement for Bullzip PDF Printer, built with Python 3.13 and PySide6. It adds a printer called **MedusaPDF** to Windows. Anything you print to it (text, images, Office documents, web pages) is saved as **PDF, TIFF, JPG, DOCX or TXT**.
 
